@@ -1,0 +1,11 @@
+{
+	"name": "grapql-react",
+	"version": "1.0.0",
+	"private": true,
+	"repository": "https://github.com/iTheia/graphql-react.git",
+	"author": "Marlon <martinez.1ded@gmail.com>",
+	"workspaces": [
+		"packages/*"
+	],
+	"license": "MIT"
+}
